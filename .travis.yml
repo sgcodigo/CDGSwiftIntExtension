@@ -5,4 +5,4 @@ xcode_scheme: CDGSwiftIntExtension
 xcode_sdk: iphonesimulator10.3
 
 script:
-    - xcodebuild clean build -sdk iphonesimulator -workspace CDGSwiftIntExtension.xcworkspace -scheme CDGSwiftIntExtensionTests CODE_SIGNING_REQUIRED=NO
+    - xcodebuild clean build -sdk iphonesimulator -workspace CDGSwiftIntExtension.xcodeproj -scheme CDGSwiftIntExtensionTests CODE_SIGNING_REQUIRED=NO
