@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "CDGSwiftIntExtension"
   s.version      = "0.0.1"
-  s.summary      = "Codigo iOS Swift extensions for Int data type"
+  s.summary      = "iOS Int Swift extensions, Codigo style"
   s.description  = "iOS Int Swift extensions, Codigo style"
   s.homepage     = "https://github.com/sgcodigo/CDGSwiftIntExtension"
   s.license      = { :type => "MIT", :file => "LICENSE" }
