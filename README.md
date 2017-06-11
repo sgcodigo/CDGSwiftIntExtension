@@ -1,5 +1,7 @@
 ## CDGSwiftIntExtension
 
+[![Build Status](https://api.travis-ci.org/sgcodigo/CDGSwiftIntExtension.svg?branch=master)](https://travis-ci.org/sgcodigo/CDGSwiftIntExtension)
+
 iOS Int Swift extensions, Codigo style
 
 ## Requirements
